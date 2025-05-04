@@ -1,11 +1,9 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Martín (with accent on the I)
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Martín Ezequiel Monzón, you must call me Ezequiel.
 =====================================================================================================================================================
-
 Full Stack Developer
 --------------------
 
-I am a Full Stack Developer, I started learning Python, continued with JavaScript (+ TypeScript), PHP and C#. I love making simple but memorable and modern projects.
-
+I am a proactive Full Stack Developer, I started learning Python, continued with JavaScript (+ TypeScript) and PHP. I love making simple but memorable and modern projects with an elegant touch.
 *   🌍  I'm based in Buenos Aires, Argentina
 *   🤝  I'm open to collaborating on Interesting Projects
   <h3>Languages<h3>   
